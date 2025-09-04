@@ -44,4 +44,8 @@ Luego ejecuta el script:
 python automatizacion.py
 
 
-El script abrirá una ventana del navegador, realizará la búsqueda, aplicará los filtros y mostrará por consola los primeros 5 resultados.# ML-Scraper
+El script abrirá una ventana del navegador, realizará la búsqueda, aplicará los filtros y mostrará por consola los primeros 5 resultados.
+
+<img width="2600" height="1167" alt="Captura de pantalla 03 09 2025 a 18 14 38 p m" src="https://github.com/user-attachments/assets/a0c7a0c5-93bf-4e84-805d-6004c7afba97" />
+
+<img width="939" height="265" alt="Captura de pantalla 03 09 2025 a 18 16 08 p m" src="https://github.com/user-attachments/assets/7ba52117-3754-4501-a124-f1a3215a4a1e" />
